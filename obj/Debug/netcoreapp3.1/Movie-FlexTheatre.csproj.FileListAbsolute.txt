@@ -1,0 +1,13 @@
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\bin\Debug\netcoreapp3.1\Movie-FlexTheatre.exe
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\bin\Debug\netcoreapp3.1\Movie-FlexTheatre.deps.json
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\bin\Debug\netcoreapp3.1\Movie-FlexTheatre.runtimeconfig.json
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\bin\Debug\netcoreapp3.1\Movie-FlexTheatre.runtimeconfig.dev.json
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\bin\Debug\netcoreapp3.1\Movie-FlexTheatre.dll
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\bin\Debug\netcoreapp3.1\Movie-FlexTheatre.pdb
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\obj\Debug\netcoreapp3.1\Movie-FlexTheatre.csprojAssemblyReference.cache
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\obj\Debug\netcoreapp3.1\Movie-FlexTheatre.AssemblyInfoInputs.cache
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\obj\Debug\netcoreapp3.1\Movie-FlexTheatre.AssemblyInfo.cs
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\obj\Debug\netcoreapp3.1\Movie-FlexTheatre.csproj.CoreCompileInputs.cache
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\obj\Debug\netcoreapp3.1\Movie-FlexTheatre.dll
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\obj\Debug\netcoreapp3.1\Movie-FlexTheatre.pdb
+C:\Users\maith\Desktop\Kathan\Movie-FlexTheatre\Movie-FlexTheatre\obj\Debug\netcoreapp3.1\Movie-FlexTheatre.genruntimeconfig.cache
